@@ -2,7 +2,7 @@
 
 A back-end application is built using Node.js, Express.js, Mongoose, and TypeScript. This application is designed to handle various CRUD operations related to products, users, orders, and categories. It utilizes MongoDB as its database.
 
-Front-end Repository: [Front-end](https://github.com/Kudoo39/fs17-Frontend-project/tree/fullstack)
+Front-end Repository: [Front-end](https://github.com/Kudoo39/trending)
 
 ## Table of Contents
 

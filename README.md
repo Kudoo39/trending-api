@@ -170,7 +170,7 @@ src
  ## Deployment
 
  - The project is deployed using Render: https://trending-api-rggn.onrender.com
- - AWS Cloud: [AWS Cloud URL](http://ec2-13-53-200-173.eu-north-1.compute.amazonaws.com:8080/api/v1/products)
+ - AWS Cloud: [AWS Cloud URL](http://ec2-13-48-56-84.eu-north-1.compute.amazonaws.com:8080/api/v1/products)
  - Docker Hub: [kudoo39/trending-api](https://hub.docker.com/r/kudoo39/trending-api)
 
  ## CI/CD Workflow
